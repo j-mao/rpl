@@ -1,0 +1,3 @@
+[submodule "easyrl"]
+	path = easyrl
+	url = https://github.com/taochenshh/easyrl
